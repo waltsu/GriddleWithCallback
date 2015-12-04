@@ -19,7 +19,7 @@
     "react-dom": "0.14.3",
     "react-tools": "~0.12.0",
     "underscore": "~1.6.0",
-    "griddle-react": "^0.2.0"
+    "griddle-react": "^0.3.0"
   },
   "devDependencies": {
     "babel-loader": "^5.3.3",
